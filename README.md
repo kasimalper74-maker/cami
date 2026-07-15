@@ -1,2 +1,1 @@
-# cami
-Üye_tablosu
+
