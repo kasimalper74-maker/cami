@@ -1,0 +1,2 @@
+# cami
+Üye_tablosu
